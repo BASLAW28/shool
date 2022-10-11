@@ -1,0 +1,14 @@
+.homework{
+    border: 3px solid red;
+    padding: 30px;
+    background-color: violet;
+    text-align: center;
+    margin: 50px;
+    font-family: cursive;
+    width: fit-content;
+  color: blue;
+  font-size: large;  
+}
+.ball{
+    color: skyblue;
+}
